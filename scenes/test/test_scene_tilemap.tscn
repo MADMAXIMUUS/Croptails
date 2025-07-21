@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=4 uid="uid://cpep5jwwwgok0"]
 
 [ext_resource type="Texture2D" uid="uid://d1htnc05xq1pq" path="res://assets/game/tilesets/water.png" id="1_eybdx"]
-[ext_resource type="TileSet" uid="uid://7ati4gnqda1q" path="res://Tilesets/game_tile_set.tres" id="2_j2mka"]
+[ext_resource type="TileSet" uid="uid://7ati4gnqda1q" path="res://tilesets/game_tile_set.tres" id="2_j2mka"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_j2mka"]
 texture = ExtResource("1_eybdx")
